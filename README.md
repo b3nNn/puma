@@ -1,5 +1,8 @@
 # 🚀 PUMA: Portable Universal Modern Affordable
 
+[![version in](https://img.shields.io/badge/version%20in-english-green.svg)](/README.md)
+[![version en](https://img.shields.io/badge/version%20en-français-blue.svg)](/README.fr.md)
+
 <p align="center">
   <img src="public/banner.jpg?raw=true" alt="PUMA, Accelerate and simplify AI integration for creators and enterprises" width="450px"/>
 </p>
