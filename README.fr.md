@@ -1,7 +1,13 @@
-# 🚀 PUMA: Portable Universel Moderne et Accessible
+# 🚀 PUMA: Portable Universel Moderne Accessible
 
-[![version in](https://img.shields.io/badge/version%20in-english-green.svg)](/README.md)
-[![version en](https://img.shields.io/badge/version%20en-français-blue.svg)](/README.fr.md)
+[![version in english](https://img.shields.io/badge/version%20in%20english-brightgreen.svg?style=for-the-badge)](/README.md)
+[![version en français](https://img.shields.io/badge/version%20en%20français-green.svg?style=for-the-badge)](/README.fr.md)
+[![versione italiana](https://img.shields.io/badge/versione%20italiana-yellowgreen.svg?style=for-the-badge)](/README.it.md)
+[![deutsche version](https://img.shields.io/badge/deutsche%20version-yellow.svg?style=for-the-badge)](/README.de.md)
+[![versión en español](https://img.shields.io/badge/versión%20en%20español-orange.svg?style=for-the-badge)](/README.es.md)
+[![versión en portugués](https://img.shields.io/badge/versión%20en%20portugués-red.svg?style=for-the-badge)](/README.pt.md)
+[![한국어 버전](https://img.shields.io/badge/한국어%20버전-blue.svg?style=for-the-badge)](/README.kr.md)
+[![中文版](https://img.shields.io/badge/中文版-blueviolet.svg?style=for-the-badge)](/README.zh.md)
 
 <p align="center">
   <img src="public/banner.jpg?raw=true" alt="PUMA, Accélérez et simplifiez l'intégration de l'IA pour les créateurs et les entreprises" width="450px"/>
